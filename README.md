@@ -1,10 +1,10 @@
-# Web Design 2 Starter
+# Web Design 2 Google Doodle Starter
 
-![Web 2 Starter](web2.webp)
+![Stock image of a block of tofu.](Block of Tofu.jpg)
 
-> Computers are dumb. Humans make them smart.
+> Tofu has sustained humans for thousands of years. It's not just a new vegan fad. 
 
-Starter (boilerplate) for all future projects.
+Starter (boilerplate) for my Web2 Google Doodle Project.
 
 ## Why Does This Exist?
 * Don't with blank files
